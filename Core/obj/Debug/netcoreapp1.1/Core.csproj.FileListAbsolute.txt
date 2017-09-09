@@ -1,0 +1,9 @@
+/Users/arturgawlik/Projects/ToDoAPI/Core/obj/Debug/netcoreapp1.1/Core.csproj.CoreCompileInputs.cache
+/Users/arturgawlik/Projects/ToDoAPI/Core/obj/Debug/netcoreapp1.1/Core.AssemblyInfoInputs.cache
+/Users/arturgawlik/Projects/ToDoAPI/Core/obj/Debug/netcoreapp1.1/Core.AssemblyInfo.cs
+/Users/arturgawlik/Projects/ToDoAPI/Core/bin/Debug/netcoreapp1.1/Core.deps.json
+/Users/arturgawlik/Projects/ToDoAPI/Core/bin/Debug/netcoreapp1.1/Core.dll
+/Users/arturgawlik/Projects/ToDoAPI/Core/bin/Debug/netcoreapp1.1/Core.pdb
+/Users/arturgawlik/Projects/ToDoAPI/Core/obj/Debug/netcoreapp1.1/Core.csprojResolveAssemblyReference.cache
+/Users/arturgawlik/Projects/ToDoAPI/Core/obj/Debug/netcoreapp1.1/Core.dll
+/Users/arturgawlik/Projects/ToDoAPI/Core/obj/Debug/netcoreapp1.1/Core.pdb

@@ -1,0 +1,40 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/Infrastructure.csproj",
+    "projectName": "Infrastructure",
+    "projectPath": "/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/Infrastructure.csproj",
+    "outputPath": "/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {
+          "/Users/arturgawlik/Projects/ToDoAPI/Core/Core.csproj": {
+            "projectPath": "/Users/arturgawlik/Projects/ToDoAPI/Core/Core.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Microsoft.AspNetCore.Authentication.JwtBearer": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "MongoDB.Driver": {
+          "target": "Package",
+          "version": "2.4.4"
+        }
+      }
+    }
+  }
+}

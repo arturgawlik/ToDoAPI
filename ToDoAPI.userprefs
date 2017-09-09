@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A9592D90-987B-4E2B-A72B-378A85E8A400}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoAPI/Startup.cs">
+    <Files>
+      <File FileName="ToDoAPI/Startup.cs" Line="33" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.APi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

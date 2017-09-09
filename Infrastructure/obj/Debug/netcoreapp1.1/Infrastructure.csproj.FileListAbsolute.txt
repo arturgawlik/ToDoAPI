@@ -1,0 +1,11 @@
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/bin/Debug/netcoreapp1.1/Infrastructure.deps.json
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/bin/Debug/netcoreapp1.1/Infrastructure.dll
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/bin/Debug/netcoreapp1.1/Infrastructure.pdb
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/bin/Debug/netcoreapp1.1/Core.dll
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/bin/Debug/netcoreapp1.1/Core.pdb
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/obj/Debug/netcoreapp1.1/Infrastructure.csprojResolveAssemblyReference.cache
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/obj/Debug/netcoreapp1.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/obj/Debug/netcoreapp1.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/obj/Debug/netcoreapp1.1/Infrastructure.AssemblyInfo.cs
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/obj/Debug/netcoreapp1.1/Infrastructure.dll
+/Users/arturgawlik/Projects/ToDoAPI/Infrastructure/obj/Debug/netcoreapp1.1/Infrastructure.pdb

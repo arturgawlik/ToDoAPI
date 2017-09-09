@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APi", "ToDoAPI\APi.csproj", "{A9592D90-987B-4E2B-A72B-378A85E8A400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{C5845510-5D4E-408E-8309-1ECFBF42C7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{4D090B24-2A8F-4030-AFC6-581737D13DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9592D90-987B-4E2B-A72B-378A85E8A400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9592D90-987B-4E2B-A72B-378A85E8A400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9592D90-987B-4E2B-A72B-378A85E8A400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9592D90-987B-4E2B-A72B-378A85E8A400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5845510-5D4E-408E-8309-1ECFBF42C7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5845510-5D4E-408E-8309-1ECFBF42C7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5845510-5D4E-408E-8309-1ECFBF42C7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5845510-5D4E-408E-8309-1ECFBF42C7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D090B24-2A8F-4030-AFC6-581737D13DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D090B24-2A8F-4030-AFC6-581737D13DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D090B24-2A8F-4030-AFC6-581737D13DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D090B24-2A8F-4030-AFC6-581737D13DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/bin/Debug/netcoreapp1.1/APi.deps.json
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/bin/Debug/netcoreapp1.1/APi.runtimeconfig.json
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/bin/Debug/netcoreapp1.1/APi.runtimeconfig.dev.json
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/bin/Debug/netcoreapp1.1/APi.dll
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/bin/Debug/netcoreapp1.1/APi.pdb
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/bin/Debug/netcoreapp1.1/Core.dll
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/bin/Debug/netcoreapp1.1/Infrastructure.dll
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/bin/Debug/netcoreapp1.1/Infrastructure.pdb
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/bin/Debug/netcoreapp1.1/Core.pdb
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/obj/Debug/netcoreapp1.1/APi.csprojResolveAssemblyReference.cache
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/obj/Debug/netcoreapp1.1/APi.csproj.CoreCompileInputs.cache
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/obj/Debug/netcoreapp1.1/APi.AssemblyInfoInputs.cache
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/obj/Debug/netcoreapp1.1/APi.AssemblyInfo.cs
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/obj/Debug/netcoreapp1.1/APi.dll
+/Users/arturgawlik/Projects/ToDoAPI/ToDoAPI/obj/Debug/netcoreapp1.1/APi.pdb
